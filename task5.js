@@ -1,8 +1,8 @@
 function countdownTimer() {
-    let start = 21;
-    while(start >= 15) {
-        console.log(start);
-        start--;
+    let count = 21;
+    while(count >= 15) {
+        console.log(count);
+        count--;
     }
 }
 countdownTimer();
